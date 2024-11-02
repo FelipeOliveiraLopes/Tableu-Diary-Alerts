@@ -1,0 +1,4 @@
+# Ignorar arquivos de log e informações sensíveis
+*.log
+.env
+__pycache__/
